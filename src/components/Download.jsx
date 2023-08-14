@@ -10,7 +10,7 @@ const Download = () => {
           setIsDownload(false)
         })}>Close</button>
         <div className='mx-auto my-5 text-white'>
-          s
+          sss
         </div>
       </div>
         
