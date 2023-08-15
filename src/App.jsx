@@ -2,7 +2,6 @@ import { useState, createContext } from 'react'
 import './App.css'
 import Create from './components/Create'
 import Logo from './assets/logo.png'
-import Download from './components/Download'
 
 const DownloadContext = createContext()
 
